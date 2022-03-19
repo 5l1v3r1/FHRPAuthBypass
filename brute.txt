@@ -1,0 +1,12 @@
+cisco
+c1sc0
+c1sco
+c1$c0
+admin
+root
+toor
+administrator
+fhrp_admin
+hsrp_admin
+vrrp_admin
+gldp_admin
