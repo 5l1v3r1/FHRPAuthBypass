@@ -1,5 +1,5 @@
 # FHRPMD5Crack
-**How to manually crack the MD5 hash password of VRRP x HSRP protocols.**
+**How to manually crack the MD5 hash password of FHRP protocols.**
 
 This little guide is for **pentesters** who conduct a **pentest under a contract**. **Do not use this information to destroy other people's networks.**
 
